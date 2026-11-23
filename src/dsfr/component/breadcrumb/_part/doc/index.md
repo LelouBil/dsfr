@@ -90,7 +90,7 @@ Rendre chacun des éléments cliquable, à l’exception de la page consultée.
 
 ![](./_asset/use/dont-3.png)
 
-Ne pas proposer un fil d’Ariane non cliquable.
+Ne pas proposer un fil d’Ariane cliquable.
 
 :::
 
